@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bảo vệ Môi trường</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h1>Hãy Cùng Bảo Vệ Môi Trường</h1>
+</header>
+
+<section id="intro">
+<p>Môi trường đang đối mặt với nhiều thách thức nghiêm trọng như ô nhiễm không khí, nước, đất, biến đổi khí hậu... Hành động của mỗi người chúng ta đều có ý nghĩa quan trọng trong việc bảo vệ hành tinh xanh này.</p>
+</section>
+
+<section id="actions">
+<h2>Những việc bạn có thể làm</h2>
+<ul>
+<li>Giảm thiểu sử dụng nhựa.</li>
+<li>Tiết kiệm năng lượng.</li>
+<li>Tái chế rác thải.</li>
+<li>Trồng cây xanh.</li>
+<li>Sử dụng phương tiện giao thông công cộng.</li>
+<li>Nói không với sản phẩm gây ô nhiễm.</li>
+</ul>
+</section>
+
+<footer>
+<p>&copy; 2023 Bảo vệ Môi Trường</p>
+</footer>
+</body>
+</html>
